@@ -7,6 +7,7 @@ This project is for creating a Stopwatch having following functionality:-
 4.  Then again ask for the input
 
 <b>Project simulation link</b>
+
 https://www.tinkercad.com/things/jHiDWI1K9DT-copy-of-q9/editel?sharecode=WLzn5hDUp5zpV3LtyWFlLItcSfykehVi4-bsTFU4ZR4
 
 <b>Circuit Diagram</b>
